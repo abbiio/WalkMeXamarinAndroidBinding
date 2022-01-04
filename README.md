@@ -13,7 +13,7 @@ A Simple SDK that allows anyone to create and manage in-app content without codi
 
 ### Installation
 * Add a reference to the binding project as described here:
-https://developer.xamarin.com/guides/android/advanced_topics/binding-a-java-library/binding-an-aar/#Using_the_Bindings_Library
+https://docs.microsoft.com/en-us/xamarin/android/platform/binding-java-library/binding-an-aar
 
 ### Support
 * Email us with every question or comment at support@walkme.com
